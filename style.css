@@ -1,0 +1,119 @@
+body {
+    background-color: #bebbbb;
+}
+
+#header {
+    margin: 15%;
+    outline-style: ridge;
+    background-color: #ffffff;
+    font-family: "Adobe Garamond Pro", serif;
+}
+
+.navbar-brand {
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: x-large;
+}
+
+.container.bg-primary.m-4 {
+    outline-style: ridge;
+    outline-color: dodgerblue;
+}
+
+#titleImage {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: "Adobe Garamond Pro", serif;
+    color: #ffffff;
+    font-size: large;
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary {
+     outline-style: ridge;
+    outline-color: dodgerblue;
+}
+
+.nav-link {
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: large;
+    color: dodgerblue;
+}
+
+.nav-link.active {
+    color: dodgerblue;
+}
+
+#SelectCollection {
+    margin-right: 15%;
+    margin-left: 20%;
+}
+
+.text-break {
+    outline-style: ridge;
+    outline-width: medium;
+    background-color: dodgerblue;
+    text-align: center;
+    margin-left: -60px;
+}
+
+.PresPortrait {
+    float: left;
+    width: 400px;
+    height: 500px;
+    margin-top: 10px;
+    margin-left: 50px;
+    outline: black ridge thick;
+}
+
+.PresName {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.PresBio {
+    margin-right: 90px;
+    float: right;
+    width: 800px;
+    text-align: center;
+}
+
+.NextButton {
+    float: right;
+    margin-right: 410px;
+    width: 150px;
+    height: 50px;
+}
+
+.PicCaption {
+    font-size: medium;
+    color: black;
+    margin-left: 20px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.SecondImage {
+    margin-left: 400px;
+    width: 200px;
+    text-align: center;
+    height: 200px;
+    outline: black ridge medium;
+    background-color: white;
+}
+
+.CreditsPP {
+    margin-top: 50px;
+    margin-left: 300px;
+    text-align: center;
+    width: 800px;
+    background-color: white;
+    color: black;
+    outline: black ridge medium;
+}
+
+.Obama {
+    margin-left: 350px;
+    text-align: center;
+    height: 200px;
+    outline: black ridge medium;
+    background-color: white;
+}
